@@ -3,3 +3,5 @@ Here you can find the link to where you can download the folder with the checkpo
 These files are currently outdated and will soon be replaced with files with the correct weights.
 
 VGG19: https://drive.google.com/drive/folders/17S05eo6cqgtvSNrTXAxRp-ueYx51aPLd?usp=drive_link
+
+Note that the files for the checkpoints needs to be stored in the FacesSavedCheckpoints directory.
